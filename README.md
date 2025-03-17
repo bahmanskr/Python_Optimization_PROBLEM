@@ -1,4 +1,4 @@
-# Python_Optimization_PROBLEM
+# Python_Optimization_PROBLEMS
 
 ## Nuanced Navigation
 
